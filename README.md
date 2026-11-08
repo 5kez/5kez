@@ -1,9 +1,9 @@
-### Hi, I'm Tham 👋
+### Hi, I'm Tham
 
 Junior DevOps / Cloud engineer. I like scripts, pipelines and things that run by themselves.
 Open to Junior DevOps / Cloud roles in Bangkok.
 
-🌐 [skez.codes](https://skez.codes) · ✉️ [tham.kaeoket@gmail.com](mailto:tham.kaeoket@gmail.com)
+[skez.codes](https://skez.codes) · [tham.kaeoket@gmail.com](mailto:tham.kaeoket@gmail.com)
 
 ---
 
