@@ -11,7 +11,7 @@ Open to Junior DevOps / Cloud roles in Bangkok.
 
 | Project | What it is | Live demo | Code |
 |---|---|---|---|
-| **Daily Monitoring Automation** | n8n workflows + dashboard that collect daily health-check reports for many servers. Cut a 1–2 hour manual routine to about 5 minutes. | [skez.codes/demo/monitoring](https://skez.codes/demo/monitoring) | [automate-daily-monitoring](https://github.com/5kez/automate-daily-monitoring) |
+| **Daily Monitoring Automation** | n8n workflows + dashboard that collect daily health-check reports for many servers. Cut a 1–2 hour manual routine to about 5 minutes. | [skez.codes/demo/monitoring](https://skez.codes/demo/monitoring) | [dashboard](https://github.com/5kez/automate-daily-monitoring) · [n8n backend](https://github.com/5kez/n8n-server-monitoring) |
 | **Smart Bed** | Hospital bed monitoring: sensors over MQTT → NestJS API → live dashboard with alerts. | [skez.codes/demo/smartbed](https://skez.codes/demo/smartbed) | [backend](https://github.com/5kez/backend_bedproject) · [frontend](https://github.com/5kez/frontend_bedproject) |
 
 #### Run the full Smart Bed stack yourself, one command
